@@ -1,0 +1,1 @@
+Esse script foi utilizado para fazer leituras diárias de uma planilha google e, quando a coluna "Status" fosse atualizada, e-mails seriam mandados para os responsáveis por cada linha para que soubessem que houve atualização.
